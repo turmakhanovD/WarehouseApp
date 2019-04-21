@@ -1,0 +1,15 @@
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\EntityFramework.dll
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\EntityFramework.xml
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.CopyComplete
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Migrations.Initial.resources
+C:\Users\Адиль\source\repos\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.cache
